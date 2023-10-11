@@ -1,4 +1,4 @@
-/* Handle multiple successful promises*/
+/* Handle multiple successful promises */
 import { createUser, uploadPhoto } from './utils';
 
 function handleProfileSignup() {
